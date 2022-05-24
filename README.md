@@ -1,4 +1,4 @@
 # E-Comm-App-UI-
-![image](https://user-images.githubusercontent.com/68344077/170106923-bb292005-3706-46c2-97ea-8d3e5d88ec68.png)
-![image](https://user-images.githubusercontent.com/68344077/170106969-4b308584-c6f1-473f-86e1-8760fa808c15.png)
-![image](https://user-images.githubusercontent.com/68344077/170107002-1aedd94b-cea1-4cf3-a670-97ea2ef4575d.png)
+![image](https://user-images.githubusercontent.com/68344077/170107295-bdacc793-e839-4dd6-b069-4c557fef25e5.png)
+![image](https://user-images.githubusercontent.com/68344077/170107430-a20f3bcf-5cb6-4a0a-975d-8f42eef80061.png)
+![image](https://user-images.githubusercontent.com/68344077/170107514-59eaf5a0-4006-421a-9a96-b6d81e44fbe3.png)
