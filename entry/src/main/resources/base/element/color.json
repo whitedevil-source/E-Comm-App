@@ -1,0 +1,21 @@
+{
+  "color":
+  [
+    {
+      "name": "cyan",
+      "value": "#00FFFF"
+    },
+    {
+      "name": "deepblue",
+      "value": "#0703D8"
+    },
+    {
+      "name": "bg1",
+      "value": "#FFF1F1F1"
+    },
+    {
+      "name": "bg2",
+      "value": "#FFEEEDED"
+    }
+  ]
+}
